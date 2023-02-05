@@ -1,0 +1,51 @@
+body {  /*Imagen de fondo pág*/
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-height: auto;
+    background-image: url(imagenes/yop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1 { /*Titulo TOMAT´S INK TATTOO STUDIO*/
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: black;
+    color: red;
+    text-align: center;
+    text-shadow: 2px 3px 3px white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 70px
+}
+
+footer { /*Pie de pág*/
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.IG {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.FC {
+    color: blue;
+    text-decoration: none;
+}
+
+.WT {
+    color: green;
+    text-decoration: none;
+ }
+ 
+ .Description {
+    margin: 70px;
+    border: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
